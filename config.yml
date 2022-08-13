@@ -18,3 +18,5 @@ params:
           url: "<link>"
         - name: "TikTok"
           url: "<link2>"
+        - name: "email"
+          url: "mailto:<email adress>"
