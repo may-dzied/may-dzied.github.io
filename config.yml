@@ -20,3 +20,8 @@ params:
           url: "<link2>"
         - name: "email"
           url: "mailto:<email adress>"
+
+    assets:
+        favicon16x16: "favicon16.png"
+        favicon32x32: "favicon32.png"
+        apple_touch_icon: "apple-touch-icon.png"
