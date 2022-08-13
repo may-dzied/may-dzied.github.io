@@ -1,0 +1,20 @@
+baseURL: "<url>"
+languageCode: "en-gb"
+title: "NCS project website"
+theme: "PaperMod"
+
+params:
+
+    disableThemeToggle: true
+    hideFooter: true
+    hideMeta: true
+
+    homeInfoParams:
+        Title: NCS project
+        Content: Information
+
+    socialIcons:
+        - name: "Instagram"
+          url: "<link>"
+        - name: "TikTok"
+          url: "<link2>"
