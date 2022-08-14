@@ -26,7 +26,6 @@ params:
         favicon16x16: "favicon16.png"            # Logo 16x16 pixels
         favicon32x32: "favicon32.png"            # Logo 32x32 pixels
         apple_touch_icon: "apple-touch-icon.png" # Logo 180x180 i guess
-        theme_color: "#ff0000"
 
     label:
         text: "Home"
