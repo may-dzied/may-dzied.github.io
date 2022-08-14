@@ -2,6 +2,9 @@
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 irm get.scoop.sh | iex
 
+# Install hugo
+scoop install hugo
+
 # Install neovim and neovide
 scoop bucket add extras
 scoop install vcredist2022
