@@ -8,6 +8,6 @@ scoop install vcredist2022
 scoop install neovim
 scoop install neovide
 
-# Installs astro nvim
+# Install astro nvim
 git clone https://github.com/AstroNvim/AstroNvim ~/AppData/Local/nvim
 nvim +PackerSync
