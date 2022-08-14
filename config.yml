@@ -5,7 +5,7 @@ theme: "PaperMod"
 
 params:
 
-    disableThemeToggle: true
+    disableThemeToggle: false
     hideFooter: true
     hideMeta: true
 
