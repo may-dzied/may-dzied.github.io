@@ -1,11 +1,11 @@
 :root { /* LIGHT MODE */
-    --gap: 24px;
-    --content-gap: 20px;
+    --gap: 20px;
+    --content-gap: 24px;
     --nav-width: 1024px;
     --main-width: 720px;
     --header-height: 60px;
     --footer-height: 60px;
-    --radius: 8px;
+    --radius: 15px;
     --theme: rgb(255, 255, 255);     /* background colour on posts */
     --entry: rgb(255, 255, 255);     /* colour for post cards */
     --primary: rgb(30, 30, 30);      /* main text colour for headings + social media icons */
